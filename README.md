@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@skillsync.dev or join our Discord community.
+For support, email support @cb2117@srmist.edu.in .
 
 ## 🔮 Roadmap
 
