@@ -128,7 +128,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support @cb2117@srmist.edu.in .
+For support, feel free to reach out to us via email:
+
+- **Primary Support:** support@cb2117.srmist.edu.in
+- **Additional Contacts:**
+  - saino2005piyush@gmail.com
+  - soubhiksadhu1981@gmail.com
+  - aadvikmazumdar@gmail.com
+
 
 ## 🔮 Roadmap
 
